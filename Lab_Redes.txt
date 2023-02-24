@@ -1,0 +1,18 @@
+Ip para os computadores
+192.168.0.2
+
+Se for pingado tem que dar menos que 1 milesegundo pois pode ter algo de errado
+
+o modelo cascateado não é uma forma correta de utilizar.
+
+por que ainda á habus e não atendera a nescecidade do cliente
+
+melhorou a rede e diminuiu a latência, diminui a quantidade de saltos.
+
+Switche tem memoria então não deixarar ocorrer colisão, só acontecera se fir uma colisão interna.
+
+trocar os hubs pelo switche
+
+Só poder ocorrer colisão se o cache 
+
+pode trabalhar com /10 gerando um gargalo, transmitindo gigabits com gigabits para tirar o gargalo.
